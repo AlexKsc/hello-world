@@ -1,2 +1,5 @@
 # hello-world
-this is the intro repository
+
+Hi there,
+
+I'm Alex. I like SQL sailing and visiting new places.
